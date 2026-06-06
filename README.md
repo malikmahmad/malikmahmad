@@ -2,9 +2,14 @@
   <img width="100%" src="https://raw.githubusercontent.com/malikmahmad/malikmahmad/main/images/banner.svg" alt="Muhammad Ahmad — GitHub Profile Banner"/>
 </div>
 
-<br/>
-
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/malikmahmad/malikmahmad/main/images/cricket-top.svg" width="100%" alt="Cricket Ball Top"/>
+
+<details>
+<summary><b>🏏 &nbsp; Open Profile</b></summary>
+
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&random=false&width=750&height=50&lines=🚀+Building+Software+That+Matters;💻+Web+%7C+Mobile+%7C+Desktop+%7C+AI;🤖+TypeScript+·+Python+·+Flutter+·+C%23;🎓+BS+IT+%40+MNS+UET+%7C+ICT+Club+Counselor;🤝+Open+to+Collaborate+—+Let's+Build!;⚡+Ships+fast.+Debugs+faster.+Learns+fastest.)](https://git.io/typing-svg)
 
@@ -292,5 +297,11 @@ I don't bite, I promise. 🤝
 <img width="100%" src="https://raw.githubusercontent.com/malikmahmad/malikmahmad/main/images/footer-wave.svg" alt="Footer"/>
 
 <sub>⭐ Star my repos if you find them useful — it keeps me going! · Made with 🩶 in Pakistan 🇵🇰</sub>
+
+</div>
+
+</details>
+
+<img src="https://raw.githubusercontent.com/malikmahmad/malikmahmad/main/images/cricket-bottom.svg" width="100%" alt="Cricket Ball Bottom"/>
 
 </div>
