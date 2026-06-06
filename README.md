@@ -35,7 +35,9 @@
 <br/>
 
 <div align="left">
-<pre style="background-color:#0d0221;color:#e2e8f0;padding:24px 28px;border-radius:12px;border-left:3px solid #a855f7;overflow-x:auto;line-height:1.8;font-size:13px"><code><span style="color:#6A737D">/**</span>
+<pre style="background-color:#0d0221;color:#e2e8f0;padding:24px 28px;border-radius:12px;border-left:3px solid #a855f7;overflow-x:auto;line-height:1.8;font-size:13px"><code>
+  <!--
+<span style="color:#6A737D">/**</span>
 <span style="color:#6A737D"> * Represents me.</span>
 <span style="color:#6A737D"> *</span>
 <span style="color:#6A737D"> * </span><span style="color:#F97583">@author</span><span style="color:#E1E4E8">       Malik Muhammad Ahmad</span>
@@ -60,7 +62,7 @@
 <span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8">  philosophy    </span><span style="color:#6A737D">- "Build it. Break it. Fix it. Ship it."</span>
 <span style="color:#6A737D"> *</span>
 <span style="color:#6A737D"> * </span><span style="color:#F97583">@throws</span><span style="color:#B392F0"> {Punch}</span><span style="color:#6A737D">  To every bug I've ever met 🐛</span>
-<span style="color:#6A737D"> */</span></code></pre>
+<span style="color:#6A737D"> */</span></code></pre> -->
 </div>
 </details>
 
