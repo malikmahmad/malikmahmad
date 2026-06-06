@@ -36,6 +36,32 @@
 
 <div align="left">
 <pre style="background-color:#0d0221;color:#e2e8f0;padding:24px 28px;border-radius:12px;border-left:3px solid #a855f7;overflow-x:auto;line-height:1.8;font-size:13px"><code>
+<span style="color:#6A737D">/**</span>
+<span style="color:#6A737D"> * Represents me.</span>
+<span style="color:#6A737D"> *</span>
+<span style="color:#6A737D"> * </span><span style="color:#F97583">@author</span><span style="color:#E1E4E8">       Malik Muhammad Ahmad</span>
+<span style="color:#6A737D"> * </span><span style="color:#F97583">@alias</span><span style="color:#E1E4E8">        malikmahmad</span>
+<span style="color:#6A737D"> * </span><span style="color:#F97583">@email</span><span style="color:#E1E4E8">        mahmad937ak@gmail.com</span>
+<span style="color:#6A737D"> * </span><span style="color:#F97583">@portfolio</span><span style="color:#E1E4E8">    malikmahmad.github.io/Portfolio</span>
+<span style="color:#6A737D"> *</span>
+<span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8">  city          </span><span style="color:#6A737D">- Pakistan 🇵🇰</span>
+<span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8">  languages     </span><span style="color:#6A737D">- English, Urdu</span>
+<span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8">  education     </span><span style="color:#6A737D">- BS Information Technology, MNS UET Multan</span>
+<span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8">  role          </span><span style="color:#6A737D">- ICT Club Counselor @ MNS UET</span>
+<span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8">  jobTitle      </span><span style="color:#6A737D">- Software Engineer + Freelancer</span>
+<span style="color:#6A737D"> *</span>
+<span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {Array}</span><span style="color:#E1E4E8">   canBuild      </span><span style="color:#6A737D">- [ Web, Mobile, Desktop, AI Tools ]</span>
+<span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {Array}</span><span style="color:#E1E4E8">   building      </span><span style="color:#6A737D">- [ CareerMint, DocuForge, Agentra-AI ]</span>
+<span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {Array}</span><span style="color:#E1E4E8">   interests     </span><span style="color:#6A737D">- [ AI/ML, Cybersecurity, Open Source ]</span>
+<span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {Array}</span><span style="color:#E1E4E8">   hobbies       </span><span style="color:#6A737D">- [ Late-night coding, Gaming, Music ]</span>
+<span style="color:#6A737D"> *</span>
+<span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {boolean}</span><span style="color:#E1E4E8"> approachable  </span><span style="color:#6A737D">- true  // Don't hesitate to reach out!</span>
+<span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8">  strength      </span><span style="color:#6A737D">- Ships fast. Debugs faster. Learns fastest.</span>
+<span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8">  weakness      </span><span style="color:#6A737D">- Can't stop before it's perfect</span>
+<span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8">  philosophy    </span><span style="color:#6A737D">- "Build it. Break it. Fix it. Ship it."</span>
+<span style="color:#6A737D"> *</span>
+<span style="color:#6A737D"> * </span><span style="color:#F97583">@throws</span><span style="color:#B392F0"> {Punch}</span><span style="color:#6A737D">  To every bug I've ever met 🐛</span>
+<span style="color:#6A737D"> */</span></code></pre>
 </div>
 </details>
 
