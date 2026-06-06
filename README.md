@@ -1,55 +1,57 @@
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/images/header.svg" alt="Malik — GitHub Profile Banner"/>
+  <img width="100%" src="https://raw.githubusercontent.com/malikmahmad/malikmahmad/main/images/banner.svg" alt="Muhammad Ahmad — GitHub Profile Banner"/>
 </div>
 
-<div align="center">
-<p><img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Top of pokeball"></p>
-
-<details>
-<summary>▶ &nbsp; Open Profile</summary>
-
 <br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&random=false&width=750&height=50&lines=🚀+Full+Stack+Developer+%7C+Software+Engineer;💻+Web+%7C+Mobile+%7C+Desktop+%7C+AI;🤖+TypeScript+·+Python+·+Flutter+·+Next.js;🇵🇰+Based+in+Pakistan+—+Building+Globally;🤝+Open+to+Collaborate+—+Let's+Build!;⚡+Ships+fast.+Debugs+faster.+Learns+fastest.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&random=false&width=750&height=50&lines=🚀+Building+Software+That+Matters;💻+Web+%7C+Mobile+%7C+Desktop+%7C+AI;🤖+TypeScript+·+Python+·+Flutter+·+C%23;🎓+BS+IT+%40+MNS+UET+%7C+ICT+Club+Counselor;🤝+Open+to+Collaborate+—+Let's+Build!;⚡+Ships+fast.+Debugs+faster.+Learns+fastest.)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-7c3aed?style=for-the-badge)](https://YOUR_PORTFOLIO_LINK)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-YOUR_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-7c3aed?style=for-the-badge)](https://malikmahmad.github.io/Portfolio/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmad-788b62338)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-mahmad937ak-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmad937ak@gmail.com)&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CSNck9BPs)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=a855f7&logo=github)](https://github.com/YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=malikmahmad&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/malikmahmad?label=Followers&style=for-the-badge&color=a855f7&logo=github)](https://github.com/malikmahmad)
 
 </div>
 
 ---
 
-<details open>
-<summary><b>👤 &nbsp; Who am I?</b></summary>
+<details>
+<summary><b>👤 &nbsp; Who is Ahmad?</b></summary>
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/malikmahmad/malikmahmad/main/images/about-card.svg" width="560" alt="About Ahmad Card"/>
+</div>
+
 <br/>
 
 <div align="left">
 <pre style="background-color:#0d0221;color:#e2e8f0;padding:24px 28px;border-radius:12px;border-left:3px solid #a855f7;overflow-x:auto;line-height:1.8;font-size:13px"><code><span style="color:#6A737D">/**</span>
 <span style="color:#6A737D"> * Represents me.</span>
 <span style="color:#6A737D"> *</span>
-<span style="color:#6A737D"> * </span><span style="color:#F97583">@author</span><span style="color:#E1E4E8">       Malik</span>
-<span style="color:#6A737D"> * </span><span style="color:#F97583">@alias</span><span style="color:#E1E4E8">        YOUR_GITHUB_USERNAME</span>
-<span style="color:#6A737D"> * </span><span style="color:#F97583">@email</span><span style="color:#E1E4E8">        YOUR_EMAIL@gmail.com</span>
-<span style="color:#6A737D"> * </span><span style="color:#F97583">@portfolio</span><span style="color:#E1E4E8">    YOUR_PORTFOLIO_LINK</span>
+<span style="color:#6A737D"> * </span><span style="color:#F97583">@author</span><span style="color:#E1E4E8">       Malik Muhammad Ahmad</span>
+<span style="color:#6A737D"> * </span><span style="color:#F97583">@alias</span><span style="color:#E1E4E8">        malikmahmad</span>
+<span style="color:#6A737D"> * </span><span style="color:#F97583">@email</span><span style="color:#E1E4E8">        mahmad937ak@gmail.com</span>
+<span style="color:#6A737D"> * </span><span style="color:#F97583">@portfolio</span><span style="color:#E1E4E8">    malikmahmad.github.io/Portfolio</span>
 <span style="color:#6A737D"> *</span>
 <span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8">  city          </span><span style="color:#6A737D">- Pakistan 🇵🇰</span>
 <span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8">  languages     </span><span style="color:#6A737D">- English, Urdu</span>
-<span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8">  education     </span><span style="color:#6A737D">- YOUR_EDUCATION</span>
-<span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8">  jobTitle      </span><span style="color:#6A737D">- Full Stack Developer · Software Engineer · AI Developer</span>
+<span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8">  education     </span><span style="color:#6A737D">- BS Information Technology, MNS UET Multan</span>
+<span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8">  role          </span><span style="color:#6A737D">- ICT Club Counselor @ MNS UET</span>
+<span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8">  jobTitle      </span><span style="color:#6A737D">- Software Engineer + Freelancer</span>
 <span style="color:#6A737D"> *</span>
-<span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {Array}</span><span style="color:#E1E4E8">   canBuild      </span><span style="color:#6A737D">- [ Web, Mobile, Desktop, AI Tools, Apps ]</span>
-<span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {Array}</span><span style="color:#E1E4E8">   interests     </span><span style="color:#6A737D">- [ AI/ML, Full Stack, App Dev, Open Source ]</span>
+<span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {Array}</span><span style="color:#E1E4E8">   canBuild      </span><span style="color:#6A737D">- [ Web, Mobile, Desktop, AI Tools ]</span>
+<span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {Array}</span><span style="color:#E1E4E8">   building      </span><span style="color:#6A737D">- [ CareerMint, DocuForge, Agentra-AI ]</span>
+<span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {Array}</span><span style="color:#E1E4E8">   interests     </span><span style="color:#6A737D">- [ AI/ML, Cybersecurity, Open Source ]</span>
 <span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {Array}</span><span style="color:#E1E4E8">   hobbies       </span><span style="color:#6A737D">- [ Late-night coding, Gaming, Music ]</span>
 <span style="color:#6A737D"> *</span>
 <span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {boolean}</span><span style="color:#E1E4E8"> approachable  </span><span style="color:#6A737D">- true  // Don't hesitate to reach out!</span>
@@ -102,7 +104,7 @@
 </kbd>
 &nbsp;
 <kbd>
-  <kbd>Mobile & App Dev</kbd><br><br>
+  <kbd>Mobile & Desktop</kbd><br><br>
   <img width="30px" title="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg"/>
   <img width="30px" title="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
   <img width="30px" title="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
@@ -158,19 +160,23 @@
 
 <div align="center">
 
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0221&title_color=a855f7&text_color=94a3b8&icon_color=a855f7" alt="GitHub Stats"/>
+<!--
+
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=malikmahmad&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0221&title_color=a855f7&text_color=94a3b8&icon_color=a855f7" alt="GitHub Stats"/>
 &nbsp;
-<img height="195" src="https://nirzak-streak-stats.vercel.app/?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&background=0d0221&stroke=a855f7&ring=a855f7&fire=ec4899&currStreakLabel=a855f7&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak"/>
+<img height="195" src="https://nirzak-streak-stats.vercel.app/?user=malikmahmad&theme=midnight-purple&hide_border=true&background=0d0221&stroke=a855f7&ring=a855f7&fire=ec4899&currStreakLabel=a855f7&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=a855f7&text_color=94a3b8&langs_count=10" alt="Top Languages"/>
+<img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikmahmad&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=a855f7&text_color=94a3b8&langs_count=10" alt="Top Languages"/>
 &nbsp;&nbsp;
-<img height="178" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+<img height="178" src="https://github-profile-trophy.vercel.app/?username=malikmahmad&theme=discord&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d0221&color=a855f7&line=a855f7&point=ec4899&area_color=1e1b4b&area=true&hide_border=true&radius=8" alt="Activity Graph"/>
+-->
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=malikmahmad&bg_color=0d0221&color=a855f7&line=a855f7&point=ec4899&area_color=1e1b4b&area=true&hide_border=true&radius=8" alt="Activity Graph"/>
 
 </div>
 </details>
@@ -185,11 +191,16 @@
 
 | | Project | Stack | Description |
 |:---:|:---|:---:|:---|
-| 🌐 | **[Your Project 1](https://github.com/YOUR_USERNAME/project1)** | `TS` `Next.js` | Full stack web application |
-| 🤖 | **[Your Project 2](https://github.com/YOUR_USERNAME/project2)** | `Python` `AI` | AI-powered tool |
-| 📱 | **[Your Project 3](https://github.com/YOUR_USERNAME/project3)** | `Flutter` `Dart` | Cross-platform mobile app |
-| 🛒 | **[Your Project 4](https://github.com/YOUR_USERNAME/project4)** | `JS` `React` | E-commerce platform |
-| 🧠 | **[Your Project 5](https://github.com/YOUR_USERNAME/project5)** | `TS` `AI` | AI chatbot application |
+| 🪙 | **[CareerMint](https://github.com/malikmahmad/CareerMint)** | `JS` `AI` | AI-powered career platform — job match & resume builder |
+| 📄 | **[DocuForge](https://github.com/malikmahmad/DocuForge-)** | `TS` `Node` | Intelligent documentation generation tool for developers |
+| 🤖 | **[Agentra-AI](https://github.com/malikmahmad/Agentra-AI)** | `Python` `AI` | Autonomous AI agent framework — end-to-end task execution |
+| 🛒 | **[HiveNest](https://github.com/malikmahmad/HiveNest-Ecommerce-Website)** | `HTML` `CSS` | Full-featured modern e-commerce platform |
+| 🤝 | **[CollabNest](https://github.com/malikmahmad/CollabNest)** | `JS` `React` | Real-time team collaboration & project management app |
+| 🧠 | **[Mindful AI Chat](https://github.com/malikmahmad/mindful-ai-chat)** | `TS` `AI` | Mental wellness AI chatbot — empathetic support system |
+| 🛍️ | **[SwiftShop](https://github.com/malikmahmad/SwiftShop)** | `JS` | Fast minimal online shopping experience |
+| ✋ | **[Gesture Drawing](https://github.com/malikmahmad/Gesture-Based-Project-Drawing)** | `Python` `CV` | Draw using hand gestures — computer vision powered |
+| 🎮 | **[XO Game](https://github.com/malikmahmad/XO-Game)** | `JS` | Tic-Tac-Toe with a smart AI opponent |
+| 🌦️ | **[Weather App](https://github.com/malikmahmad/Weather-App)** | `HTML` `API` | Real-time weather with live API integration |
 
 </div>
 </details>
@@ -238,13 +249,13 @@
 
 Need a **web app, mobile app, desktop software, or AI tool**?
 
-I build real products that solve real problems — from idea to deployment. Feel free to reach me by [email](mailto:YOUR_EMAIL@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN).
+I build real products that solve real problems — from idea to deployment. Feel free to [reach me by email](mailto:mahmad937ak@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/muhammad-ahmad-788b62338).
 
 I don't bite, I promise. 🤝
 
-📧 **YOUR_EMAIL@gmail.com**<br/>
-🌐 **[Portfolio →](https://YOUR_PORTFOLIO_LINK)**<br/>
-💼 **[LinkedIn →](https://www.linkedin.com/in/YOUR_LINKEDIN)**
+📧 **mahmad937ak@gmail.com**<br/>
+🌐 **[Portfolio →](https://malikmahmad.github.io/Portfolio/)**<br/>
+💼 **[LinkedIn →](https://www.linkedin.com/in/muhammad-ahmad-788b62338)**
 
   </td>
   <td width="45%" valign="top">
@@ -272,18 +283,14 @@ I don't bite, I promise. 🤝
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)&nbsp;
-[![Email](https://img.shields.io/badge/Send%20me%20an-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Visit%20my-Portfolio-7c3aed?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmad-788b62338)&nbsp;
+[![Email](https://img.shields.io/badge/Send%20me%20an-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmad937ak@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Visit%20my-Portfolio-7c3aed?style=for-the-badge&logo=firefox&logoColor=white)](https://malikmahmad.github.io/Portfolio/)
 
-<br/>
+<br/><br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/malikmahmad/malikmahmad/main/images/footer-wave.svg" alt="Footer"/>
 
 <sub>⭐ Star my repos if you find them useful — it keeps me going! · Made with 🩶 in Pakistan 🇵🇰</sub>
-
-</div>
-
-</details>
-
-<p><img src="https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png" alt="Bottom of pokeball"></p>
 
 </div>
