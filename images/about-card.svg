@@ -1,0 +1,114 @@
+<svg width="560" height="320" viewBox="0 0 560 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0221"/>
+      <stop offset="100%" style="stop-color:#130535"/>
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#a855f7"/>
+      <stop offset="50%" style="stop-color:#ec4899"/>
+      <stop offset="100%" style="stop-color:#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#c084fc"/>
+      <stop offset="100%" style="stop-color:#f472b6"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="cardShadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="0" stdDeviation="12" flood-color="#7c3aed" flood-opacity="0.35"/>
+    </filter>
+    <pattern id="miniGrid" width="25" height="25" patternUnits="userSpaceOnUse">
+      <path d="M 25 0 L 0 0 0 25" fill="none" stroke="#a855f7" stroke-width="0.2" opacity="0.15"/>
+    </pattern>
+  </defs>
+
+  <!-- Card shadow -->
+  <rect x="4" y="4" width="552" height="312" rx="16" fill="#7c3aed" opacity="0.15" filter="url(#cardShadow)"/>
+
+  <!-- Card border gradient (outer) -->
+  <rect x="0" y="0" width="560" height="320" rx="16" fill="url(#borderGrad)" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Card bg (inner) -->
+  <rect x="2" y="2" width="556" height="316" rx="15" fill="url(#cardBg)"/>
+  <rect x="2" y="2" width="556" height="316" rx="15" fill="url(#miniGrid)"/>
+
+  <!-- Top bar -->
+  <rect x="2" y="2" width="556" height="40" rx="15" fill="#0a0118" opacity="0.8"/>
+  <rect x="2" y="32" width="556" height="10" fill="#0a0118" opacity="0.8"/>
+
+  <!-- Traffic lights -->
+  <circle cx="28" cy="22" r="6" fill="#ff5f57"><animate attributeName="opacity" values="1;0.6;1" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="50" cy="22" r="6" fill="#febc2e"/>
+  <circle cx="72" cy="22" r="6" fill="#28c840"/>
+
+  <!-- Tab title -->
+  <text x="280" y="27" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#64748b" letter-spacing="2">ahmad.js — profile</text>
+
+  <!-- Avatar circle -->
+  <circle cx="72" cy="115" r="44" fill="#1a0533" stroke="url(#borderGrad)" stroke-width="2"/>
+  <!-- Avatar face -->
+  <circle cx="72" cy="108" r="20" fill="#2d1055"/>
+  <circle cx="64" cy="104" r="3.5" fill="#a855f7" opacity="0.9"/>
+  <circle cx="80" cy="104" r="3.5" fill="#a855f7" opacity="0.9"/>
+  <circle cx="64" cy="104" r="1.8" fill="#fff" opacity="0.9"/>
+  <circle cx="80" cy="104" r="1.8" fill="#fff" opacity="0.9"/>
+  <path d="M 62 116 Q 72 124 82 116" stroke="#ec4899" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Body -->
+  <ellipse cx="72" cy="140" rx="22" ry="15" fill="#2d1055"/>
+  <!-- Rotating ring -->
+  <circle cx="72" cy="115" r="44" fill="none" stroke="#a855f7" stroke-width="1.5" stroke-dasharray="15 8" opacity="0.6">
+    <animateTransform attributeName="transform" type="rotate" from="0 72 115" to="360 72 115" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <!-- Orbiting dot -->
+  <circle cx="72" cy="71" r="3" fill="#ec4899" filter="url(#glow)">
+    <animateMotion dur="6s" repeatCount="indefinite">
+      <mpath href="#orbit1"/>
+    </animateMotion>
+  </circle>
+  <path id="orbit1" d="M 72 71 A 44 44 0 1 1 71.9 71" fill="none"/>
+
+  <!-- Name -->
+  <text x="135" y="82" font-family="'Courier New', Courier, monospace" font-size="20" font-weight="900" fill="url(#titleGrad)" letter-spacing="2" filter="url(#glow)">Muhammad Ahmad</text>
+  <text x="135" y="102" font-family="'Courier New', Courier, monospace" font-size="11" fill="#94a3b8" letter-spacing="2">Software Engineer · AI Dev · App Developer</text>
+
+  <!-- Divider -->
+  <line x1="135" y1="112" x2="540" y2="112" stroke="#a855f7" stroke-width="0.8" opacity="0.35"/>
+
+  <!-- Info rows -->
+  <text x="135" y="132" font-family="'Courier New', monospace" font-size="11" fill="#a855f7">📍</text>
+  <text x="155" y="132" font-family="'Courier New', monospace" font-size="11" fill="#64748b">Pakistan 🇵🇰  ·  MNS UET Multan</text>
+
+  <text x="135" y="152" font-family="'Courier New', monospace" font-size="11" fill="#ec4899">🎓</text>
+  <text x="155" y="152" font-family="'Courier New', monospace" font-size="11" fill="#64748b">BS Information Technology</text>
+
+  <text x="135" y="172" font-family="'Courier New', monospace" font-size="11" fill="#a855f7">💼</text>
+  <text x="155" y="172" font-family="'Courier New', monospace" font-size="11" fill="#64748b">Software Engineer + Freelancer</text>
+
+  <text x="135" y="192" font-family="'Courier New', monospace" font-size="11" fill="#ec4899">🏛</text>
+  <text x="155" y="192" font-family="'Courier New', monospace" font-size="11" fill="#64748b">ICT Club Counselor @ MNS UET</text>
+
+  <text x="135" y="212" font-family="'Courier New', monospace" font-size="11" fill="#a855f7">🔨</text>
+  <text x="155" y="212" font-family="'Courier New', monospace" font-size="11" fill="#64748b">Building: CareerMint · DocuForge · Agentra-AI</text>
+
+  <text x="135" y="232" font-family="'Courier New', monospace" font-size="11" fill="#ec4899">✉</text>
+  <text x="155" y="232" font-family="'Courier New', monospace" font-size="11" fill="#64748b">mahmad937ak@gmail.com</text>
+
+  <!-- Bottom divider -->
+  <line x1="20" y1="255" x2="540" y2="255" stroke="#a855f7" stroke-width="0.8" opacity="0.3"/>
+
+  <!-- Philosophy chip -->
+  <rect x="20" y="265" width="520" height="38" rx="8" fill="#1a0533" opacity="0.8"/>
+  <rect x="20" y="265" width="520" height="38" rx="8" fill="none" stroke="#a855f7" stroke-width="0.8" opacity="0.4"/>
+  <text x="280" y="279" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#64748b" letter-spacing="1">philosophy</text>
+  <text x="280" y="295" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="12" fill="#c084fc" letter-spacing="2" filter="url(#glow)">"Build it. Break it. Fix it. Ship it."</text>
+
+  <!-- Corner particles -->
+  <circle cx="520" cy="75" r="1.5" fill="#a855f7" opacity="0.7"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="530" cy="85" r="1" fill="#ec4899" opacity="0.6"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="4.2s" repeatCount="indefinite"/></circle>
+  <circle cx="38" cy="240" r="1.2" fill="#a855f7" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="5s" repeatCount="indefinite"/></circle>
+</svg>

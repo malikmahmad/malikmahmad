@@ -1,0 +1,88 @@
+<svg width="1200" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#04001a"/>
+      <stop offset="50%" style="stop-color:#0d0221"/>
+      <stop offset="100%" style="stop-color:#04001a"/>
+    </linearGradient>
+    <linearGradient id="waveGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#a855f7;stop-opacity:0.7"/>
+      <stop offset="70%" style="stop-color:#ec4899;stop-opacity:0.7"/>
+      <stop offset="100%" style="stop-color:#ec4899;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="waveGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ec4899;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#ec4899;stop-opacity:0.4"/>
+      <stop offset="70%" style="stop-color:#a855f7;stop-opacity:0.4"/>
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="topLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a855f7;stop-opacity:0"/>
+      <stop offset="25%" style="stop-color:#a855f7"/>
+      <stop offset="50%" style="stop-color:#ec4899"/>
+      <stop offset="75%" style="stop-color:#a855f7"/>
+      <stop offset="100%" style="stop-color:#a855f7;stop-opacity:0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="dots" width="35" height="35" patternUnits="userSpaceOnUse">
+      <circle cx="17.5" cy="17.5" r="0.7" fill="#a855f7" opacity="0.18"/>
+    </pattern>
+  </defs>
+
+  <!-- BG -->
+  <rect width="1200" height="140" fill="url(#footBg)"/>
+  <rect width="1200" height="140" fill="url(#dots)"/>
+
+  <!-- Top glowing line -->
+  <rect x="0" y="0" width="1200" height="2" fill="url(#topLine)">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Wave 1 -->
+  <path d="M0,60 C150,30 300,90 450,60 C600,30 750,90 900,60 C1050,30 1150,70 1200,60 L1200,140 L0,140 Z" fill="url(#waveGrad1)" opacity="0.4">
+    <animateTransform attributeName="transform" type="translate" values="0,0;-60,0;0,0" dur="8s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Wave 2 -->
+  <path d="M0,80 C200,50 350,110 500,80 C650,50 800,110 950,80 C1100,50 1180,90 1200,80 L1200,140 L0,140 Z" fill="url(#waveGrad2)" opacity="0.3">
+    <animateTransform attributeName="transform" type="translate" values="0,0;60,0;0,0" dur="6s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Center glow orb -->
+  <ellipse cx="600" cy="80" rx="200" ry="35" fill="#7c3aed" opacity="0.07">
+    <animate attributeName="rx" values="200;240;200" dur="5s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- Footer text -->
+  <text x="600" y="55" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="14" font-weight="700" letter-spacing="4" fill="#a855f7" filter="url(#glow)">
+    " Build it. Break it. Fix it. Ship it. "
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="4s" repeatCount="indefinite"/>
+  </text>
+  <text x="600" y="78" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="10" letter-spacing="3" fill="#64748b">
+    © 2025  Muhammad Ahmad  ·  mahmad937ak@gmail.com  ·  Pakistan 🇵🇰
+  </text>
+  <text x="600" y="100" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="10" letter-spacing="2" fill="#4c1d95" opacity="0.9">
+    Full Stack Developer  ·  AI Engineer  ·  App Developer
+  </text>
+
+  <!-- Floating particles -->
+  <circle cx="80" cy="60" r="1.5" fill="#a855f7" opacity="0.7"><animate attributeName="cy" values="60;40;60" dur="3.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0.1;0.7" dur="3.5s" repeatCount="indefinite"/></circle>
+  <circle cx="250" cy="100" r="1.2" fill="#ec4899" opacity="0.6"><animate attributeName="cy" values="100;80;100" dur="4.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;0.1;0.6" dur="4.8s" repeatCount="indefinite"/></circle>
+  <circle cx="950" cy="50" r="1.5" fill="#a855f7" opacity="0.7"><animate attributeName="cy" values="50;70;50" dur="3.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0.1;0.7" dur="3.8s" repeatCount="indefinite"/></circle>
+  <circle cx="1100" cy="95" r="1.2" fill="#ec4899" opacity="0.6"><animate attributeName="cy" values="95;75;95" dur="5.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;0.1;0.6" dur="5.2s" repeatCount="indefinite"/></circle>
+  <circle cx="400" cy="45" r="1" fill="#f472b6" opacity="0.8"><animate attributeName="cy" values="45;65;45" dur="2.9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0.2;0.8" dur="2.9s" repeatCount="indefinite"/></circle>
+  <circle cx="800" cy="110" r="1" fill="#c084fc" opacity="0.6"><animate attributeName="cy" values="110;90;110" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;0.1;0.6" dur="6s" repeatCount="indefinite"/></circle>
+
+  <!-- Corner code decorators -->
+  <text x="25" y="75" font-family="'Courier New', monospace" font-size="24" fill="#a855f7" opacity="0.15">&lt;/&gt;</text>
+  <text x="1148" y="75" font-family="'Courier New', monospace" font-size="18" fill="#ec4899" opacity="0.15">{ }</text>
+
+  <!-- Bottom line -->
+  <rect x="0" y="138" width="1200" height="2" fill="url(#topLine)">
+    <animate attributeName="opacity" values="1;0.5;1" dur="3s" repeatCount="indefinite"/>
+  </rect>
+</svg>
