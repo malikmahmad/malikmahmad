@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="900" height="160">
+  <defs>
+    <radialGradient id="ballGrad2" cx="42%" cy="38%" r="55%">
+      <stop offset="0%" style="stop-color:#c0392b"/>
+      <stop offset="45%" style="stop-color:#922b21"/>
+      <stop offset="100%" style="stop-color:#4a0a0a"/>
+    </radialGradient>
+    <radialGradient id="shineGrad2" cx="35%" cy="30%" r="40%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.25"/>
+      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0"/>
+    </radialGradient>
+    <filter id="ballShadow2" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#7c0000" flood-opacity="0.6"/>
+    </filter>
+    <filter id="seamGlow2">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="ballClip2">
+      <circle cx="450" cy="80" r="68"/>
+    </clipPath>
+    <style>
+      .ball-pulse2 { animation: ballPulse2 3s ease-in-out infinite; transform-origin: 450px 80px; }
+      @keyframes ballPulse2 { 0%,100%{transform:scale(1)} 50%{transform:scale(1.03)} }
+      .shine-pulse2 { animation: shinePulse2 4s ease-in-out infinite; }
+      @keyframes shinePulse2 { 0%,100%{opacity:0.7} 50%{opacity:1} }
+    </style>
+  </defs>
+
+  <rect width="900" height="160" fill="#0a0118"/>
+
+  <!-- Ground shadow -->
+  <ellipse cx="450" cy="152" rx="72" ry="10" fill="#000" opacity="0.4"/>
+
+  <g class="ball-pulse2" filter="url(#ballShadow2)">
+    <circle cx="450" cy="80" r="68" fill="url(#ballGrad2)"/>
+    <circle cx="450" cy="80" r="68" fill="url(#shineGrad2)" class="shine-pulse2"/>
+
+    <path d="M 382 80 C 400 52, 440 48, 450 80 C 460 112, 500 108, 518 80"
+      fill="none" stroke="#f5c6c6" stroke-width="2.2" filter="url(#seamGlow2)" clip-path="url(#ballClip2)"/>
+    <path d="M 382 80 C 400 108, 440 112, 450 80 C 460 48, 500 52, 518 80"
+      fill="none" stroke="#f5c6c6" stroke-width="2.2" filter="url(#seamGlow2)" clip-path="url(#ballClip2)"/>
+
+    <g clip-path="url(#ballClip2)" stroke="#f0a0a0" stroke-width="1.4" opacity="0.85">
+      <line x1="400" y1="63" x2="404" y2="67"/>
+      <line x1="408" y1="57" x2="412" y2="61"/>
+      <line x1="416" y1="53" x2="420" y2="57"/>
+      <line x1="400" y1="97" x2="404" y2="93"/>
+      <line x1="408" y1="103" x2="412" y2="99"/>
+      <line x1="416" y1="107" x2="420" y2="103"/>
+    </g>
+    <g clip-path="url(#ballClip2)" stroke="#f0a0a0" stroke-width="1.4" opacity="0.85">
+      <line x1="480" y1="63" x2="484" y2="67"/>
+      <line x1="488" y1="57" x2="492" y2="61"/>
+      <line x1="496" y1="53" x2="500" y2="57"/>
+      <line x1="480" y1="97" x2="484" y2="93"/>
+      <line x1="488" y1="103" x2="492" y2="99"/>
+      <line x1="496" y1="107" x2="500" y2="103"/>
+    </g>
+    <line x1="450" y1="12" x2="450" y2="148"
+      stroke="#7a1a1a" stroke-width="1.2" opacity="0.5" clip-path="url(#ballClip2)"/>
+  </g>
+</svg>
