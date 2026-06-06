@@ -2,6 +2,13 @@
   <img width="100%" src="https://raw.githubusercontent.com/malikmahmad/malikmahmad/main/images/banner.svg" alt="Muhammad Ahmad — GitHub Profile Banner"/>
 </div>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/malikmahmad/malikmahmad/main/images/cricket-top.svg" width="100%" alt="Cricket Ball Top"/>
+
+<details>
+<summary><b>🏏 &nbsp; Open Profile</b></summary>
+
 <br/>
 
 <div align="center">
@@ -35,8 +42,7 @@
 <br/>
 
 <div align="left">
-<pre style="background-color:#0d0221;color:#e2e8f0;padding:24px 28px;border-radius:12px;border-left:3px solid #a855f7;overflow-x:auto;line-height:1.8;font-size:13px"><code>
-<span style="color:#6A737D">/**</span>
+<pre style="background-color:#0d0221;color:#e2e8f0;padding:24px 28px;border-radius:12px;border-left:3px solid #a855f7;overflow-x:auto;line-height:1.8;font-size:13px"><code><span style="color:#6A737D">/**</span>
 <span style="color:#6A737D"> * Represents me.</span>
 <span style="color:#6A737D"> *</span>
 <span style="color:#6A737D"> * </span><span style="color:#F97583">@author</span><span style="color:#E1E4E8">       Malik Muhammad Ahmad</span>
@@ -293,5 +299,11 @@ I don't bite, I promise. 🤝
 <img width="100%" src="https://raw.githubusercontent.com/malikmahmad/malikmahmad/main/images/footer-wave.svg" alt="Footer"/>
 
 <sub>⭐ Star my repos if you find them useful — it keeps me going! · Made with 🩶 in Pakistan 🇵🇰</sub>
+
+</div>
+
+</details>
+
+<img src="https://raw.githubusercontent.com/malikmahmad/malikmahmad/main/images/cricket-bottom.svg" width="100%" alt="Cricket Ball Bottom"/>
 
 </div>
