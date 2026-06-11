@@ -166,6 +166,7 @@
 
 | | Project | Stack | Description |
 |:---:|:---|:---:|:---|
+| 🌀 | **[AuraAI](https://github.com/malikmahmad/AuraAI-Gesture-Experience)** | `JS` `CV` | Gesture-controlled AR canvas — real-time hand tracking & effects |
 | 🪙 | **[CareerMint](https://github.com/malikmahmad/CareerMint)** | `JS` `AI` | AI-powered career platform — job match & resume builder |
 | 📄 | **[DocuForge](https://github.com/malikmahmad/DocuForge-)** | `TS` `Node` | Intelligent documentation generation tool for developers |
 | 🤖 | **[Agentra-AI](https://github.com/malikmahmad/Agentra-AI)** | `Python` `AI` | Autonomous AI agent framework — end-to-end task execution |
