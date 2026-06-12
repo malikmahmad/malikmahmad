@@ -271,8 +271,6 @@ I don't bite, I promise. 🤝
 
 </div>
 
-![All Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malikmahmad&layout=pie&langs_count=20)
-
 </details>
 
 </div>
