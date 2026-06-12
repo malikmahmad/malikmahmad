@@ -271,9 +271,8 @@ I don't bite, I promise. 🤝
 
 </div>
 
-## 📊 Top Languages
+![All Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malikmahmad&layout=pie&langs_count=20)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malikmahmad&layout=compact)
 </details>
 
 </div>
