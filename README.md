@@ -271,6 +271,8 @@ I don't bite, I promise. 🤝
 
 </div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malikmahmad&show_icons=true)
+
 </details>
 
 </div>
