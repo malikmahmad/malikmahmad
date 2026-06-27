@@ -194,9 +194,7 @@ I don't bite, I promise. 🤝
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=A855F7&center=true&vCenter=true&width=800&lines=Code.+Create.+Innovate.;Turning+ideas+into+real-world+solutions.;Full+Stack+Developer+%7C+AI+Enthusiast.;Always+building%2C+always+learning.;Thanks+for+stopping+by!+🚀" alt="Typing SVG" />
-
-<br><br>
+₍^. .^₎⟆ 🐾 🐾 🐾 🐾 💨
 
 ⭐ Star my repositories if you find them useful • Made with 🩶 in Pakistan 🇵🇰
 
