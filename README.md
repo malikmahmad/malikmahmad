@@ -187,8 +187,6 @@ I don't bite, I promise. 🤝
 
 <br/><br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/malikmahmad/malikmahmad/main/images/footer-wave.svg" alt="Footer"/>
-
 <sub>⭐ Star my repos if you find them useful — it keeps me going! · Made with 🩶 in Pakistan 🇵🇰</sub>
 
 </div>
