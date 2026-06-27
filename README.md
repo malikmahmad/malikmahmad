@@ -184,7 +184,7 @@ I don't bite, I promise. 🤝
 
 <div align="center">
 
-<img src="https://media.tenor.com/XR4jCw7R4XcAAAAi/dino-game.gif" width="120"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
 
 </div>
 
