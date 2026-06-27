@@ -1,15 +1,11 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding GIF"/>
-</div>
-
-<div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/malikmahmad/malikmahmad/main/images/banner.svg" alt="Muhammad Ahmad — GitHub Profile Banner"/>
 </div>
 
 <div align="center">
 
 <details>
-<summary><h2>🏏 &nbsp;&nbsp; Open Profile &nbsp;&nbsp; 🏏</h2></summary>
+<summary><b>🏏 &nbsp; Open Profile</b></summary>
 
 <br/>
 
@@ -45,11 +41,11 @@
 
 ---
 
-<div align="center">
+<details open>
+<summary><b>🛠️ &nbsp; Tech Stack & Tools</b></summary>
+<br/>
 
-### 🛠️ &nbsp; Tech Stack & Tools
-
-<p align="center">
+<div align="center"><p align="center">
 
 <kbd>
   <kbd>Languages</kbd><br><br>
@@ -128,8 +124,62 @@
   <img width="30px" title="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
 </kbd>
 
-</p>
+</p></div>
+</details>
+
+---
+
+<details open>
+<summary><b>📊 &nbsp; GitHub Stats</b></summary>
+<br/>
+
+<div align="center">
+
+<!--
+
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=malikmahmad&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0221&title_color=a855f7&text_color=94a3b8&icon_color=a855f7" alt="GitHub Stats"/>
+&nbsp;
+<img height="195" src="https://nirzak-streak-stats.vercel.app/?user=malikmahmad&theme=midnight-purple&hide_border=true&background=0d0221&stroke=a855f7&ring=a855f7&fire=ec4899&currStreakLabel=a855f7&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikmahmad&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=a855f7&text_color=94a3b8&langs_count=10" alt="Top Languages"/>
+&nbsp;&nbsp;
+<img height="178" src="https://github-profile-trophy.vercel.app/?username=malikmahmad&theme=discord&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+
+<br/><br/>
+
+-->
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=malikmahmad&bg_color=0d0221&color=a855f7&line=a855f7&point=ec4899&area_color=1e1b4b&area=true&hide_border=true&radius=8" alt="Activity Graph"/>
+
 </div>
+</details>
+
+---
+
+<details open>
+<summary><b>🚀 &nbsp; Featured Projects</b></summary>
+<br/>
+
+<div align="center">
+
+| | Project | Stack | Description |
+|:---:|:---|:---:|:---|
+| 🌀 | **[AuraAI](https://github.com/malikmahmad/AuraAI-Gesture-Experience)** | `JS` `CV` | Gesture-controlled AR canvas — real-time hand tracking & effects |
+| 🪙 | **[CareerMint](https://github.com/malikmahmad/CareerMint)** | `JS` `AI` | AI-powered career platform — job match & resume builder |
+| 📄 | **[DocuForge](https://github.com/malikmahmad/DocuForge-)** | `TS` `Node` | Intelligent documentation generation tool for developers |
+| 🤖 | **[Agentra-AI](https://github.com/malikmahmad/Agentra-AI)** | `Python` `AI` | Autonomous AI agent framework — end-to-end task execution |
+| 🛒 | **[HiveNest](https://github.com/malikmahmad/HiveNest-Ecommerce-Website)** | `HTML` `CSS` | Full-featured modern e-commerce platform |
+| 🤝 | **[CollabNest](https://github.com/malikmahmad/CollabNest)** | `JS` `React` | Real-time team collaboration & project management app |
+| 🧠 | **[Mindful AI Chat](https://github.com/malikmahmad/mindful-ai-chat)** | `TS` `AI` | Mental wellness AI chatbot — empathetic support system |
+| 🛍️ | **[SwiftShop](https://github.com/malikmahmad/SwiftShop)** | `JS` | Fast minimal online shopping experience |
+| ✋ | **[Gesture Drawing](https://github.com/malikmahmad/Gesture-Based-Project-Drawing)** | `Python` `CV` | Draw using hand gestures — computer vision powered |
+| 🎮 | **[XO Game](https://github.com/malikmahmad/XO-Game)** | `JS` | Tic-Tac-Toe with a smart AI opponent |
+| 🌦️ | **[Weather App](https://github.com/malikmahmad/Weather-App)** | `HTML` `API` | Real-time weather with live API integration |
+
+</div>
+</details>
 
 ---
 
@@ -204,6 +254,10 @@ I don't bite, I promise. 🤝
 ---
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Coding GIF"/>
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmad-788b62338)&nbsp;
 [![Email](https://img.shields.io/badge/Send%20me%20an-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmad937ak@gmail.com)&nbsp;
