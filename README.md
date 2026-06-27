@@ -1,11 +1,11 @@
 <div align="center">
-  <img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
+  <img width="100%" height="320px" style="object-fit:cover;object-position:center top;" src="https://raw.githubusercontent.com/malikmahmad/malikmahmad/main/images/hero.png" alt="Muhammad Ahmad — Developer"/>
 </div>
 
 <div align="center">
 
 <details>
-<summary><b>&nbsp;&nbsp; 👨‍💻 Malik Muhammad Ahmad — Open Profile &nbsp;&nbsp;</b></summary>
+<summary><b>&nbsp;&nbsp; 👨‍💻 Muhammad Ahmad — Open Profile &nbsp;&nbsp;</b></summary>
 
 <br/>
 
