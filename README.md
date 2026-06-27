@@ -112,28 +112,6 @@
 
 </kbd>
 
-</div>---
-
----
-
-### 🚀 &nbsp; Featured Projects
-
-<div align="center">
-
-| | Project | Stack | Description |
-|:---:|:---|:---:|:---|
-| 🌀 | **[AuraAI](https://github.com/malikmahmad/AuraAI-Gesture-Experience)** | `JS` `CV` | Gesture-controlled AR canvas — real-time hand tracking & effects |
-| 🪙 | **[CareerMint](https://github.com/malikmahmad/CareerMint)** | `JS` `AI` | AI-powered career platform — job match & resume builder |
-| 📄 | **[DocuForge](https://github.com/malikmahmad/DocuForge-)** | `TS` `Node` | Intelligent documentation generation tool for developers |
-| 🤖 | **[Agentra-AI](https://github.com/malikmahmad/Agentra-AI)** | `Python` `AI` | Autonomous AI agent framework — end-to-end task execution |
-| 🛒 | **[HiveNest](https://github.com/malikmahmad/HiveNest-Ecommerce-Website)** | `HTML` `CSS` | Full-featured modern e-commerce platform |
-| 🤝 | **[CollabNest](https://github.com/malikmahmad/CollabNest)** | `JS` `React` | Real-time team collaboration & project management app |
-| 🧠 | **[Mindful AI Chat](https://github.com/malikmahmad/mindful-ai-chat)** | `TS` `AI` | Mental wellness AI chatbot — empathetic support system |
-| 🛍️ | **[SwiftShop](https://github.com/malikmahmad/SwiftShop)** | `JS` | Fast minimal online shopping experience |
-| ✋ | **[Gesture Drawing](https://github.com/malikmahmad/Gesture-Based-Project-Drawing)** | `Python` `CV` | Draw using hand gestures — computer vision powered |
-| 🎮 | **[XO Game](https://github.com/malikmahmad/XO-Game)** | `JS` | Tic-Tac-Toe with a smart AI opponent |
-| 🌦️ | **[Weather App](https://github.com/malikmahmad/Weather-App)** | `HTML` `API` | Real-time weather with live API integration |
-
 </div>
 
 ---
