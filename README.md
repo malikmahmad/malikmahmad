@@ -184,16 +184,6 @@ I don't bite, I promise. 🤝
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Always+learning+new+technologies.;Building+software+that+matters.;See+you+again!+👋" />
-
-</div>
-
-<sub>⭐ Star my repos if you find them useful — it keeps me going! · Made with 🩶 in Pakistan 🇵🇰</sub>
-
-</div>
-
-<div align="center">
-
 ₍^. .^₎⟆ 🐾 🐾 🐾 🐾 💨
 
 ⭐ Star my repositories if you find them useful • Made with 🩶 in Pakistan 🇵🇰
