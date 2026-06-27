@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="320px" style="object-fit:cover;object-position:center top;" src="https://raw.githubusercontent.com/malikmahmad/malikmahmad/main/images/hero.png" alt="Muhammad Ahmad — Developer"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGt4emF1YTN2YnUwcDk3c3htZWxicnB2bHljcDM0dXR6dG85bnd1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="700" alt="Developer at work"/>
 </div>
 
 <div align="center">
