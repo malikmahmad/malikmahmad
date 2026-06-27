@@ -188,7 +188,7 @@ I don't bite, I promise. 🤝
 
 🐾 🐾 🐾 🐾 🐾 🐾 🐾 ᓚᘏᗢ  💨💨💨💨💨💨💨
 
-⭐ Star my repositories if you find them useful • Made with 🩶 in Pakistan 🇵🇰
+**⭐ Star my repositories if you find them useful • Made with 🩶 in Pakistan 🇵🇰**
 
 </div>
 
