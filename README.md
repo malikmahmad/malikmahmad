@@ -184,7 +184,7 @@ I don't bite, I promise. 🤝
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Always+learning+new+technologies.;Building+software+that+matters.;See+you+again!+👋" />
 
 </div>
 
