@@ -175,11 +175,6 @@ I don't bite, I promise. 🤝
 </table>
 
 ---
-<div align="center">
-
-<img src="https://media.giphy.com/media/aUR6unOaMpjflMx3SZ/giphy.gif" width="340" alt="Footer GIF"/>
-
-<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmad-788b62338)&nbsp;
 [![Email](https://img.shields.io/badge/Send%20me%20an-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmad937ak@gmail.com)&nbsp;
