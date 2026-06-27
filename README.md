@@ -184,7 +184,9 @@ I don't bite, I promise. 🤝
 
 <div align="center">
 
-₍^. .^₎⟆ 🐾 🐾 🐾 🐾 💨
+────────────────────────────────────────
+
+ᓚᘏᗢ  💨💨💨💨💨💨💨
 
 ⭐ Star my repositories if you find them useful • Made with 🩶 in Pakistan 🇵🇰
 
