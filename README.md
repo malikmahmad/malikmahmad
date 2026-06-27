@@ -1,11 +1,11 @@
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/malikmahmad/malikmahmad/main/images/banner.svg" alt="Muhammad Ahmad — GitHub Profile Banner"/>
+  <img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
 </div>
 
 <div align="center">
 
 <details>
-<summary><b>🏏 &nbsp; Open Profile</b></summary>
+<summary><b>&nbsp;&nbsp; 👨‍💻 Muhammad Ahmad — Open Profile &nbsp;&nbsp;</b></summary>
 
 <br/>
 
@@ -41,9 +41,7 @@
 
 ---
 
-<details open>
-<summary><b>🛠️ &nbsp; Tech Stack & Tools</b></summary>
-<br/>
+### 🛠️ &nbsp; Tech Stack & Tools
 
 <div align="center"><p align="center">
 
@@ -125,17 +123,12 @@
 </kbd>
 
 </p></div>
-</details>
 
 ---
 
-<details open>
-<summary><b>📊 &nbsp; GitHub Stats</b></summary>
-<br/>
+### 📊 &nbsp; GitHub Stats
 
 <div align="center">
-
-<!--
 
 <img height="195" src="https://github-readme-stats.vercel.app/api?username=malikmahmad&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0221&title_color=a855f7&text_color=94a3b8&icon_color=a855f7" alt="GitHub Stats"/>
 &nbsp;
@@ -149,18 +142,13 @@
 
 <br/><br/>
 
--->
-
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=malikmahmad&bg_color=0d0221&color=a855f7&line=a855f7&point=ec4899&area_color=1e1b4b&area=true&hide_border=true&radius=8" alt="Activity Graph"/>
 
 </div>
-</details>
 
 ---
 
-<details open>
-<summary><b>🚀 &nbsp; Featured Projects</b></summary>
-<br/>
+### 🚀 &nbsp; Featured Projects
 
 <div align="center">
 
@@ -179,7 +167,6 @@
 | 🌦️ | **[Weather App](https://github.com/malikmahmad/Weather-App)** | `HTML` `API` | Real-time weather with live API integration |
 
 </div>
-</details>
 
 ---
 
@@ -201,21 +188,17 @@
 
 ---
 
-<details open>
-<summary><b>😂 &nbsp; Free DOSE hit</b></summary>
-<br/>
+### 😂 &nbsp; Free DOSE hit
+
 <small><i>DOSE (dopamine, oxytocin, serotonin & endorphin) — refresh the page if dose was ineffective.</i></small>
 <br/><br/>
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card"/>
 </div>
-</details>
 
 ---
 
-<details open>
-<summary><b>🤝 &nbsp; What can I build for you?</b></summary>
-<br/>
+### 🤝 &nbsp; What can I build for you?
 
 <table style="border:none">
   <tr>
@@ -248,8 +231,6 @@ I don't bite, I promise. 🤝
   </td>
   </tr>
 </table>
-
-</details>
 
 ---
 
