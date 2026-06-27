@@ -184,7 +184,7 @@ I don't bite, I promise. 🤝
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<img src="https://media.tenor.com/XR4jCw7R4XcAAAAi/dino-game.gif" width="120"/>
 
 </div>
 
