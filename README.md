@@ -208,7 +208,7 @@ I don't bite, I promise. 🤝
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Coding GIF"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHl2MXZldzlkcHB0dXZxenZ0MzhpaHRucTNnNjBhNGw4bGxycG85ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0NTG9ffrXT870Wt9qv/giphy.gif" width="340" alt="Footer GIF"/>
 
 <br/><br/>
 
