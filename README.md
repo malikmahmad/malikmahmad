@@ -5,7 +5,7 @@
 <div align="center">
 
 <details>
-<summary><b>&nbsp;&nbsp; 👨‍💻 Muhammad Ahmad — Open Profile &nbsp;&nbsp;</b></summary>
+<summary><b>&nbsp;&nbsp; 👨‍💻 Malik Muhammad Ahmad — Open Profile &nbsp;&nbsp;</b></summary>
 
 <br/>
 
