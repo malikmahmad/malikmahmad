@@ -182,6 +182,12 @@ I don't bite, I promise. 🤝
 
 <br/><br/>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+</div>
+
 <sub>⭐ Star my repos if you find them useful — it keeps me going! · Made with 🩶 in Pakistan 🇵🇰</sub>
 
 </div>
