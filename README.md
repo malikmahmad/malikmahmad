@@ -29,15 +29,11 @@
 
 ---
 
-<details>
-<summary><b>👤 &nbsp; Who is Ahmad?</b></summary>
-<br/>
+### 👤 &nbsp; Who is Ahmad?
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/malikmahmad/malikmahmad/main/images/about-card.svg" width="560" alt="About Ahmad Card"/>
 </div>
-
-</details>
 
 ---
 
@@ -126,26 +122,6 @@
 
 ---
 
-### 📊 &nbsp; GitHub Stats
-
-<div align="center">
-
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=malikmahmad&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0221&title_color=a855f7&text_color=94a3b8&icon_color=a855f7" alt="GitHub Stats"/>
-&nbsp;
-<img height="195" src="https://nirzak-streak-stats.vercel.app/?user=malikmahmad&theme=midnight-purple&hide_border=true&background=0d0221&stroke=a855f7&ring=a855f7&fire=ec4899&currStreakLabel=a855f7&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikmahmad&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=a855f7&text_color=94a3b8&langs_count=10" alt="Top Languages"/>
-&nbsp;&nbsp;
-<img height="178" src="https://github-profile-trophy.vercel.app/?username=malikmahmad&theme=discord&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
-
-<br/><br/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=malikmahmad&bg_color=0d0221&color=a855f7&line=a855f7&point=ec4899&area_color=1e1b4b&area=true&hide_border=true&radius=8" alt="Activity Graph"/>
-
-</div>
-
 ---
 
 ### 🚀 &nbsp; Featured Projects
@@ -170,9 +146,7 @@
 
 ---
 
-<details>
-<summary><b>💭 &nbsp; A quote I live by</b></summary>
-<br/>
+### 💭 &nbsp; A quote I live by
 
 > *"The people who are crazy enough to think they can change the world are the ones who do."*
 >
@@ -183,8 +157,6 @@
 > *"First, solve the problem. Then, write the code."*
 >
 > **— John Johnson**
-
-</details>
 
 ---
 
