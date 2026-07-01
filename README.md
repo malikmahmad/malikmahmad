@@ -56,9 +56,9 @@
 
 </kbd>
 
-<br><br>
+<br><br><br>
 
-        
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <kbd>
 <kbd>🌐 Frontend</kbd>
@@ -73,7 +73,7 @@
 
 </kbd>
 
-<br><br>
+<br><br><br>
 
 <kbd>
 <kbd>⚙️ Backend</kbd>
@@ -87,9 +87,9 @@
 
 </kbd>
 
-<br><br>
+<br><br><br>
 
-               
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <kbd>
 <kbd>🤖 AI & Data</kbd>
@@ -103,7 +103,7 @@
 
 </kbd>
 
-<br><br>
+<br><br><br>
 
 <kbd>
 <kbd>🗄️ Databases</kbd>
@@ -117,9 +117,9 @@
 
 </kbd>
 
-<br><br>
+<br><br><br>
 
-      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <kbd>
 <kbd>☁️ DevOps & Cloud</kbd>
@@ -133,7 +133,7 @@
 
 </kbd>
 
-<br><br>
+<br><br><br>
 
 <kbd>
 <kbd>🛠️ Tools</kbd>
@@ -151,7 +151,6 @@
 </kbd>
 
 </div>
-
 
 ---
 
