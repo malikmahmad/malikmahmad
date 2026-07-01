@@ -151,6 +151,61 @@
 </kbd>
 
 </div>
+<table align="center">
+<tr>
+<td align="left">
+
+<kbd>
+<kbd>💻 Languages</kbd>
+<br><br>
+...
+</kbd>
+
+</td>
+</tr>
+
+<tr><td height="20"></td></tr>
+
+<tr>
+<td align="right">
+
+<kbd>
+<kbd>🌐 Frontend</kbd>
+<br><br>
+...
+</kbd>
+
+</td>
+</tr>
+
+<tr><td height="20"></td></tr>
+
+<tr>
+<td align="left">
+
+<kbd>
+<kbd>⚙️ Backend</kbd>
+<br><br>
+...
+</kbd>
+
+</td>
+</tr>
+
+<tr><td height="20"></td></tr>
+
+<tr>
+<td align="right">
+
+<kbd>
+<kbd>🤖 AI & Data</kbd>
+<br><br>
+...
+</kbd>
+
+</td>
+</tr>
+</table>
 
 ---
 
