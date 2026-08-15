@@ -129,7 +129,7 @@
 <h2 id="continuous-improvement">Continuous Improvement</h2>
 <p><strong><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></strong></p>
 <blockquote>"Feedback is the breakfast of champions. I'm always eager to learn and grow."
-<br><strong>– Malik Mahmad</strong></blockquote>
+<br><strong>–M Ahmad</strong></blockquote>
   </td>
   </tr>
 </tbody></table>
