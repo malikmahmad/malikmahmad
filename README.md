@@ -89,13 +89,27 @@
 
 <br>
 
-<h2 align="center">Inspiration & Philosophy</h2>
+<h2 align="center">Inspiration</h2>
+
 <br>
-  One of my favourite quotes
-  <blockquote>
-    "The only way to do great work is to love what you do." 
-    <br><strong>– Steve Jobs</strong>
-  </blockquote>
+
+<div align="center">
+
+<blockquote>
+  <i>“First, solve the problem. Then, write the code.”</i>
+  <br>
+  <strong>– John Johnson</strong>
+</blockquote>
+
+<br>
+
+<blockquote>
+  <i>“The people who are crazy enough to think they can change the world are the ones who do.”</i>
+  <br>
+  <strong>– Steve Jobs</strong>
+</blockquote>
+
+</div>
 
 <h2 align="center">Daily Motivation</h2>
 <br>
