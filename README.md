@@ -35,10 +35,6 @@
 </p>
 
 <p>
-🛠️ <strong>Stack:</strong> C++, Python, JavaScript, TypeScript, React, Node.js, C#, ASP.NET Core, SQL Server, MongoDB, Docker, Git & Google Cloud
-</p>
-
-<p>
 🚀 <strong>Building:</strong> AI-powered applications, developer tools, scalable web platforms, and practical software solutions
 </p>
 
