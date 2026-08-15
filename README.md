@@ -53,41 +53,31 @@
   <br><br>
   <img src="https://skillicons.dev/icons?i=cpp,python,cs,js,ts" />
 </kbd>
-
 &nbsp;
-
 <kbd>
   <kbd>Web Development</kbd>
   <br><br>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,express,dotnet" />
 </kbd>
-
 &nbsp;
-
 <kbd>
   <kbd>Databases</kbd>
   <br><br>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis,firebase,supabase" />
 </kbd>
-
 &nbsp;
-
 <kbd>
   <kbd>AI & Machine Learning</kbd>
   <br>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,numpy,pandas" />
 </kbd>
-
 &nbsp;
-
 <kbd>
   <kbd>Cloud & DevOps</kbd>
   <br><br>
   <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,azure,netlify" />
 </kbd>
-
 &nbsp;
-
 <kbd>
   <kbd>Mobile & Tools</kbd>
   <br><br>
