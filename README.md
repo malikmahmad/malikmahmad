@@ -147,7 +147,7 @@
   </a>
 
   <!-- Gmail Badge -->
-  <a href="mailto:your.email@gmail.com?subject=Hi%20Malik%20Mahmad,%20nice%20to%20meet%20you!" target="_blank">
+  <a href="mailto:mahmad.dev.pk@gmail.com?subject=Hi%20Malik%20Mahmad,%20nice%20to%20meet%20you!" target="_blank">
     <img src="https://img.shields.io/badge/Send%20me%20an-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Malik Mahmad">
   </a>
 
