@@ -14,8 +14,7 @@
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&lines=Full+Stack+Developer;Tech+Enthusiast;Innovator" alt="Typing"></a>
   </div>
 </div>
-<details open>
-<summary>About Me</summary>
+<h2 align="center">About Me</h2>
 <br>
 
 <p align="center">
@@ -86,24 +85,23 @@
 
 </div>
 
-<br><details>
-  <summary>Inspiration & Philosophy</summary>
-  <br>
+<br>
+<h2 align="center">Inspiration & Philosophy</h2>
+<br>
   One of my favourite quotes
   <blockquote>
     "The only way to do great work is to love what you do." 
     <br><strong>– Steve Jobs</strong>
   </blockquote>
 </details>
-<details open="">
-  <summary>Free Daily Motivation</summary>
-  <br>
+<h2 align="center">Daily Motivation</h2>
+<br>
   <small><i>Get a fresh dose of inspiration every day. Refresh if you need another boost!</i></small>
   <br>
   <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Daily Jokes Card"></div>
 </details>
-<details open="">
-<summary>What can I do for you?</summary>
+<h2 align="center">What Can I Do for You?</h2>
+<br>
 <table style="border: none">
   <tbody><tr>
   <td width="50%" valign="top">
