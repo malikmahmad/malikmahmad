@@ -46,8 +46,6 @@
 
 <h2 align="center">Tools & Technologies</h2>
 
-<br>
-
 <div align="center">
 
 <kbd>
@@ -72,8 +70,6 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis,firebase,supabase" />
 </kbd>
 
-<br><br>
-
 <kbd>
   <kbd>AI & Machine Learning</kbd>
   <br><br>
@@ -97,8 +93,6 @@
 </kbd>
 
 </div>
-
-<br>
 
 <br><details>
   <summary>Inspiration & Philosophy</summary>
