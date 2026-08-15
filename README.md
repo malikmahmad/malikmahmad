@@ -46,6 +46,8 @@
 
 <h2 align="center">Tools & Technologies</h2>
 
+<br>
+
 <div align="center">
 
 <kbd>
@@ -75,7 +77,7 @@
 <kbd>
   <kbd>Databases</kbd>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=sqlserver,mysql,mongodb,postgres,sqlite,redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis" />
 </kbd>
 
 <br><br>
@@ -83,7 +85,7 @@
 <kbd>
   <kbd>AI & Machine Learning</kbd>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,numpy,pandas" />
 </kbd>
 
 &nbsp;&nbsp;
@@ -97,14 +99,6 @@
 &nbsp;&nbsp;
 
 <kbd>
-  <kbd>Frameworks & Libraries</kbd>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=prisma,redux,threejs,electron" />
-</kbd>
-
-&nbsp;&nbsp;
-
-<kbd>
   <kbd>Development Tools</kbd>
   <br><br>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,postman" />
@@ -113,7 +107,7 @@
 <br><br>
 
 <kbd>
-  <kbd>Mobile & Cross-Platform</kbd>
+  <kbd>Mobile Development</kbd>
   <br><br>
   <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" />
 </kbd>
@@ -129,13 +123,14 @@
 &nbsp;&nbsp;
 
 <kbd>
-  <kbd>Design & Productivity</kbd>
+  <kbd>Design & Tools</kbd>
   <br><br>
   <img src="https://skillicons.dev/icons?i=figma,canva" />
 </kbd>
 
 </div>
-<details>
+
+<br><details>
   <summary>Inspiration & Philosophy</summary>
   <br>
   One of my favourite quotes
