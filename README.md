@@ -14,28 +14,39 @@
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&lines=Full+Stack+Developer;Tech+Enthusiast;Innovator" alt="Typing"></a>
   </div>
 </div>
-<details open="">
-<summary>About me</summary>
-<div align="left">
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#6A737D">/**</span></span>
-<span class="line"><span style="color:#6A737D"> * Represents Malik Mahmad - A Passionate Developer</span></span>
-<span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@constructor</span></span>
-<span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8"> city</span><span style="color:#6A737D"> = "Your City"</span></span>
-<span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8"> languages</span><span style="color:#6A737D"> = ["English", "Urdu"]</span></span>
-<span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8"> jobTitle</span><span style="color:#6A737D"> = "Full Stack Developer"</span></span>
-<span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8"> specialization</span><span style="color:#6A737D"> = ["Web Dev", "Backend", "Frontend"]</span></span>
-<span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8"> interests</span><span style="color:#6A737D"> = ["Coding", "Innovation", "Technology"]</span></span>
-<span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8"> hobbies</span><span style="color:#6A737D"> = ["Reading", "Problem Solving", "Learning"]</span></span>
-<span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8"> education</span><span style="color:#6A737D"> = "Your Education Details"</span></span>
-<span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8"> approachable</span><span style="color:#6A737D"> = true</span></span>
-<span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8"> strength</span><span style="color:#6A737D"> = "Problem-Solving & Innovation"</span></span>
-<span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8"> weakness</span><span style="color:#6A737D"> = "Perfectionism"</span></span>
-<span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {Date}</span><span style="color:#E1E4E8"> birthday</span><span style="color:#6A737D"> = "Your Birthday"</span></span>
-<span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@throws</span><span style="color:#B392F0"> {Excellence}</span><span style="color:#6A737D"> On every project I undertake.</span></span>
-<span class="line"><span style="color:#6A737D"> */</span></span></code></pre>
-</div>
-</details>
-<details open="">
+<details open>
+<summary>About Me</summary>
+<br>
+
+<p align="center">
+  <strong>Malik Muhammad Ahmad</strong><br>
+  IT '28 • Software Engineer @ IAG Soft<br>
+  PTE Pakistan Campus Ambassador • ICT Club Counselor @ MNS-UET<br>
+  Aspire Leader '26 • NASA OSDR AWG Member
+</p>
+
+<p align="center">
+  Software Engineer focused on Full-Stack Development, Artificial Intelligence,
+  Cloud Technologies, and modern software solutions.
+</p>
+
+<p>
+💻 <strong>Focus:</strong> Full-Stack Development, Software Engineering, AI/ML, APIs, Cloud & DevOps
+</p>
+
+<p>
+🛠️ <strong>Stack:</strong> C++, Python, JavaScript, TypeScript, React, Node.js, C#, ASP.NET Core, SQL Server, MongoDB, Docker, Git & Google Cloud
+</p>
+
+<p>
+🚀 <strong>Building:</strong> AI-powered applications, developer tools, scalable web platforms, and practical software solutions
+</p>
+
+<p>
+📍 <strong>Based in:</strong> Multan, Pakistan 🇵🇰
+</p>
+
+</details><details open="">
 <summary>Tools & Technologies</summary>
 <div>
   <p style="display: inline-block;" align="center">
