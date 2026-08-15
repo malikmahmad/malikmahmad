@@ -142,8 +142,8 @@
 <div align="center">
 
   <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/malikmahmad/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Malik Mahmad's LinkedIn Profile">
+<a href="https://www.linkedin.com/in/malik-muhammad-ahmad-788b62338/" target="_blank">
+<img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Malik Mahmad's LinkedIn Profile">
   </a>
 
   <!-- Gmail Badge -->
