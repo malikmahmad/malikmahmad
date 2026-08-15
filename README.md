@@ -53,17 +53,13 @@
   <br><br>
   <img src="https://skillicons.dev/icons?i=cpp,python,cs,js,ts" />
 </kbd>
-
-&nbsp;&nbsp;
-
+&nbsp;
 <kbd>
   <kbd>Web Development</kbd>
   <br><br>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,express,dotnet" />
 </kbd>
-
-&nbsp;&nbsp;
-
+&nbsp;
 <kbd>
   <kbd>Databases</kbd>
   <br><br>
@@ -76,7 +72,7 @@
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,numpy,pandas" />
 </kbd>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <kbd>
   <kbd>Cloud & DevOps</kbd>
@@ -84,7 +80,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,azure,netlify" />
 </kbd>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <kbd>
   <kbd>Mobile & Tools</kbd>
