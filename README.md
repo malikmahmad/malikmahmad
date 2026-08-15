@@ -44,61 +44,61 @@
 
 </details>
 
-<details open>
-<summary>Tools & Technologies</summary>
-<br>
+<h2 align="center">Tools & Technologies</h2>
 
 <div align="center">
 
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <b>Languages</b><br><br>
-        <img src="https://skillicons.dev/icons?i=cpp,python,cs,js,ts" />
-      </td>
-      <td align="center" width="25%">
-        <b>Frontend</b><br><br>
-        <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite" />
-      </td>
-      <td align="center" width="25%">
-        <b>Backend</b><br><br>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,fastapi" />
-      </td>
-      <td align="center" width="25%">
-        <b>Databases</b><br><br>
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis" />
-      </td>
-    </tr>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <b>Languages</b><br><br>
+      <img src="https://skillicons.dev/icons?i=cpp,python,cs,js,ts" />
+    </td>
 
-    <tr>
-      <td align="center">
-        <b>AI & Machine Learning</b><br><br>
-        <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-      </td>
-      <td align="center">
-        <b>Cloud & DevOps</b><br><br>
-        <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,netlify" />
-      </td>
-      <td align="center">
-        <b>Development Tools</b><br><br>
-        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,postman" />
-      </td>
-      <td align="center">
-        <b>Frameworks & Platforms</b><br><br>
-        <img src="https://skillicons.dev/icons?i=nextjs,prisma,electron" />
-      </td>
-    </tr>
-  </table>
+    <td align="center" width="25%">
+      <b>Frontend</b><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite" />
+    </td>
 
-</div>
+    <td align="center" width="25%">
+      <b>Backend</b><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,fastapi" />
+    </td>
+
+    <td align="center" width="25%">
+      <b>Databases</b><br><br>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <b>AI & Machine Learning</b><br><br>
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+    </td>
+
+    <td align="center">
+      <b>Cloud & DevOps</b><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,netlify" />
+    </td>
+
+    <td align="center">
+      <b>Development Tools</b><br><br>
+      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,postman" />
+    </td>
+
+    <td align="center">
+      <b>Frameworks & Platforms</b><br><br>
+      <img src="https://skillicons.dev/icons?i=nextjs,prisma,electron" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,linux,bash,figma,canva" />
-</p>
+<img src="https://skillicons.dev/icons?i=azure,aws,linux,bash,figma,canva" />
 
-</details>
+</div>
 
 <details>
   <summary>Inspiration & Philosophy</summary>
