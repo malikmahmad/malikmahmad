@@ -65,7 +65,7 @@
   <br><br>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis,firebase,supabase" />
 </kbd>
-
+&nbsp;
 <kbd>
   <kbd>AI & Machine Learning</kbd>
   <br><br>
