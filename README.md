@@ -188,5 +188,10 @@
 
 <div align="center">
 <img src="https://media.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.gif" width="300" height="150"/>
+
+<br/><br/>
+
+<b>⭐ Star my repositories if you find them useful • Made with 🩶 in Pakistan 🇵🇰</b>
+  
 </div>
 
