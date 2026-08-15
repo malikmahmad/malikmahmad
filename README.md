@@ -48,58 +48,93 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <b>Languages</b><br><br>
-      <img src="https://skillicons.dev/icons?i=cpp,python,cs,js,ts" />
-    </td>
+<kbd>
+  <kbd>Languages</kbd>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=cpp,python,cs,js,ts" />
+</kbd>
 
-    <td align="center" width="25%">
-      <b>Frontend</b><br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite" />
-    </td>
+&nbsp;&nbsp;
 
-    <td align="center" width="25%">
-      <b>Backend</b><br><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,fastapi" />
-    </td>
+<kbd>
+  <kbd>Frontend</kbd>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vite" />
+</kbd>
 
-    <td align="center" width="25%">
-      <b>Databases</b><br><br>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis" />
-    </td>
-  </tr>
+&nbsp;&nbsp;
 
-  <tr>
-    <td align="center">
-      <b>AI & Machine Learning</b><br><br>
-      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-    </td>
+<kbd>
+  <kbd>Backend</kbd>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,fastapi" />
+</kbd>
 
-    <td align="center">
-      <b>Cloud & DevOps</b><br><br>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,netlify" />
-    </td>
+&nbsp;&nbsp;
 
-    <td align="center">
-      <b>Development Tools</b><br><br>
-      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,postman" />
-    </td>
+<kbd>
+  <kbd>Databases</kbd>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=sqlserver,mysql,mongodb,postgres,sqlite,redis" />
+</kbd>
 
-    <td align="center">
-      <b>Frameworks & Platforms</b><br><br>
-      <img src="https://skillicons.dev/icons?i=nextjs,prisma,electron" />
-    </td>
-  </tr>
-</table>
+<br><br>
 
-<br>
+<kbd>
+  <kbd>AI & Machine Learning</kbd>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas" />
+</kbd>
 
-<img src="https://skillicons.dev/icons?i=azure,aws,linux,bash,figma,canva" />
+&nbsp;&nbsp;
+
+<kbd>
+  <kbd>Cloud & DevOps</kbd>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,azure,netlify" />
+</kbd>
+
+&nbsp;&nbsp;
+
+<kbd>
+  <kbd>Frameworks & Libraries</kbd>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=prisma,redux,threejs,electron" />
+</kbd>
+
+&nbsp;&nbsp;
+
+<kbd>
+  <kbd>Development Tools</kbd>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,postman" />
+</kbd>
+
+<br><br>
+
+<kbd>
+  <kbd>Mobile & Cross-Platform</kbd>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" />
+</kbd>
+
+&nbsp;&nbsp;
+
+<kbd>
+  <kbd>System & Terminal</kbd>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=linux,bash,powershell" />
+</kbd>
+
+&nbsp;&nbsp;
+
+<kbd>
+  <kbd>Design & Productivity</kbd>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
+</kbd>
 
 </div>
-
 <details>
   <summary>Inspiration & Philosophy</summary>
   <br>
