@@ -50,53 +50,37 @@
 
 <div align="center">
 
-<!-- ROW 1 -->
 <kbd>
   <kbd>Languages</kbd>
   <br><br>
   <img src="https://skillicons.dev/icons?i=cpp,python,cs,js,ts" />
 </kbd>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <kbd>
-  <kbd>Frontend</kbd>
+  <kbd>Web Development</kbd>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,express,dotnet" />
 </kbd>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
-<kbd>
-  <kbd>Backend</kbd>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,fastapi" />
-  <br><br>
-  <sub>ASP.NET Core • EF Core</sub>
-</kbd>
-
-<br><br><br>
-
-<!-- ROW 2 -->
 <kbd>
   <kbd>Databases</kbd>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis" />
-  <br><br>
-  <sub>SQL Server</sub>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis,firebase,supabase" />
 </kbd>
 
-&nbsp;&nbsp;&nbsp;
+<br><br>
 
 <kbd>
   <kbd>AI & Machine Learning</kbd>
   <br><br>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,numpy,pandas" />
-  <br><br>
-  <sub>Scikit-learn</sub>
 </kbd>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <kbd>
   <kbd>Cloud & DevOps</kbd>
@@ -104,59 +88,12 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,azure,netlify" />
 </kbd>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <kbd>
-  <kbd>Backend Services</kbd>
+  <kbd>Mobile & Tools</kbd>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=firebase,supabase" />
-  <br><br>
-  <sub>Auth • Storage • APIs</sub>
-</kbd>
-
-<br><br><br>
-
-<!-- ROW 3 -->
-<kbd>
-  <kbd>Frameworks & Libraries</kbd>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=prisma,redux,threejs,electron" />
-  <br><br>
-  <sub>Zustand • TanStack Query • Framer Motion</sub>
-</kbd>
-
-&nbsp;&nbsp;&nbsp;
-
-<kbd>
-  <kbd>Mobile Development</kbd>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio" />
-</kbd>
-
-&nbsp;&nbsp;&nbsp;
-
-<kbd>
-  <kbd>Development & Design</kbd>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,canva" />
-</kbd>
-
-<br><br>
-
-<kbd>
-  <kbd>System & Terminal</kbd>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=linux,bash,powershell" />
-</kbd>
-
-&nbsp;&nbsp;&nbsp;
-
-<kbd>
-  <kbd>Engineering & APIs</kbd>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=graphql,nginx" />
-  <br><br>
-  <sub>REST APIs • JWT • OAuth • Swagger</sub>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,vscode,visualstudio,postman" />
 </kbd>
 
 </div>
