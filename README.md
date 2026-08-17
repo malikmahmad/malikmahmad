@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/malikmahmad/malikmahmad/blob/main/ma.png?raw=true)
 
 <div align="center">
-<p><img src="https://raw.githubusercontent.com/malikmahmad/malikmahmad/main/football%20top.png" alt="Football Top" width="50%"></p>
+<p><img src="https://raw.githubusercontent.com/malikmahmad/malikmahmad/main/football%20top.png" alt="Football Top" width="60%"></p>
 
 <details>
 <summary>Open profile</summary>
@@ -136,7 +136,7 @@
 
 </details>
 
-<p><img src="https://raw.githubusercontent.com/malikmahmad/malikmahmad/main/football%20bottom.png" alt="Football Bottom" width="50%"></p>
+<p><img src="https://raw.githubusercontent.com/malikmahmad/malikmahmad/main/football%20bottom.png" alt="Football Bottom" width="60%"></p>
 </div>
 
 <div align="center">
